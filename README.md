@@ -15,7 +15,7 @@ Given a real estate dataset, to create a multiple linear regression (similar to 
 -  Using the model make a prediction about an apartment with size 750 sq.ft. from 2009
 -  Find the univariate (or multivariate if you wish - see the article) p-values of the two variables. 
 -  Create a summary table with your findings
--  
+
 ***
 ## 🚀 How To Use
 
